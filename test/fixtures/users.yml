@@ -4,3 +4,10 @@ jason:
   email: "jason@team.com"
   profile_name: "jasonseifer"
   
+
+max:
+  first_name: "Max"
+  last_name: "Okunev"
+  email: "max@team.com"
+  profile_name: "max123"
+  
